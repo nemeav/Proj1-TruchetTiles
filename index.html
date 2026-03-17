@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proj. 1 - Truchet Tiles</title>
+</head>
+
+<body>
+    <svg width="210mm" height="297mm" viewBox="0 0 210 297"></svg>
+
+    <script type="module">
+        const svg = document.querySelector('svg')
+
+        //FUNCS
+        //just rotate...
+        const rotate = (shape, angle, midX, midY) => {
+            return `<g transform="rotate(${angle} ${midX} ${midY})">${shape}</g>`//just did usual string thing bc im lazy and tired
+        }
+
+        //tile
+        const truchetTile = (x, y, size, type, rotation) => {
+            const mid = size / 2;
+            const midX = x + mid;
+            const midY = y + mid;
+            let paths = ""
+
+            // Patterns
+            switch (type) {
+                //X
+                case 0:
+                    paths += `<path d="M ${x} ${y} Q ${midX} ${midY} ${x + size} ${y + size}"
+                                stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"/>`
+                    paths += `<path d="M ${x + size} ${y} Q ${midX} ${midY} ${x} ${y + size}"
+                                stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"/>`
+                    break
+                //midpoint arcs with line through diagonal
+                case 1:
+                    paths += `<path d="M ${x} ${midY} Q ${midX} ${midY} ${midX} ${y}"
+                                stroke="black" stroke-width="0.3" fill="none"/>`
+                    paths += `<path d="M ${midX} ${y + size} Q ${midX} ${midY} ${x + size} ${midY}"
+                                stroke="black" stroke-width="0.3" fill="none"/>`
+                    paths += `<path d="M ${x} ${y + size} Q ${midX} ${midY} ${x + size} ${y}"
+                                stroke="black" stroke-width="0.3" fill="none"/>`
+                    break
+                //standard midpoint arc
+                case 2:
+                    paths += `<path d="M ${x} ${y + mid} Q ${midX} ${midY} ${x + mid} ${y}"
+                                stroke="black" stroke-width="0.3" fill="none"/>`
+                    paths += `<path d="M ${x + mid} ${y + size} Q ${midX} ${midY} ${x + size} ${y + mid}"
+                                stroke="black" stroke-width="0.3" fill="none"/>`
+                    break
+            }
+
+            return rotate(paths, rotation, midX, midY)
+        }
+
+        //grid
+        const makeGrid = () => {
+            const rows = 30
+            const cols = 20
+            const cellSize = 10
+            let grid = ""
+
+            for (let j = 0; j < rows; j++) {
+                for (let i = 0; i < cols; i++) {
+                    const x = i * cellSize
+                    const y = j * cellSize
+                    const type = Math.floor(Math.random() * 3)
+                    const rotation = [0,90,180,270][Math.floor(Math.random()*4)] //on purpose bc i hated intentional random
+                    grid += truchetTile(x, y, cellSize, type, rotation)
+                }
+            }
+            return grid
+        }
+
+        //Computer- GO!
+        svg.innerHTML += makeGrid()
+    </script>
+
+</body>
+
+</html>
+
+<!--
+- GENERAL NOTES
+- BC I'M TIRED OF FLIPPING THROUGH DOCS... and just tired
+- M = move (2, xStart + yStart)
+- Q = quadratic (curve thing) (2, intensity + end)-->

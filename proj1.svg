@@ -1,0 +1,2611 @@
+<svg width="210mm" height="297mm" viewBox="0 0 210 297">
+    <g transform="rotate(90 5 5)">
+        <path d="M 0 5 Q 5 5 5 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 10 Q 5 5 10 5" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 0 10 Q 5 5 10 0" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 15 5)">
+        <path d="M 10 5 Q 15 5 15 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 10 Q 15 5 20 5" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 25 5)">
+        <path d="M 20 5 Q 25 5 25 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 10 Q 25 5 30 5" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 35 5)">
+        <path d="M 30 0 Q 35 5 40 10" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 40 0 Q 35 5 30 10" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 45 5)">
+        <path d="M 40 5 Q 45 5 45 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 10 Q 45 5 50 5" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 55 5)">
+        <path d="M 50 0 Q 55 5 60 10" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 60 0 Q 55 5 50 10" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 65 5)">
+        <path d="M 60 5 Q 65 5 65 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 10 Q 65 5 70 5" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 75 5)">
+        <path d="M 70 5 Q 75 5 75 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 10 Q 75 5 80 5" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 70 10 Q 75 5 80 0" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 85 5)">
+        <path d="M 80 5 Q 85 5 85 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 10 Q 85 5 90 5" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 80 10 Q 85 5 90 0" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 95 5)">
+        <path d="M 90 0 Q 95 5 100 10" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 100 0 Q 95 5 90 10" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 105 5)">
+        <path d="M 100 5 Q 105 5 105 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 10 Q 105 5 110 5" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 100 10 Q 105 5 110 0" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 115 5)">
+        <path d="M 110 5 Q 115 5 115 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 10 Q 115 5 120 5" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 110 10 Q 115 5 120 0" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 125 5)">
+        <path d="M 120 0 Q 125 5 130 10" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 130 0 Q 125 5 120 10" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 135 5)">
+        <path d="M 130 5 Q 135 5 135 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 10 Q 135 5 140 5" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 145 5)">
+        <path d="M 140 5 Q 145 5 145 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 10 Q 145 5 150 5" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 155 5)">
+        <path d="M 150 5 Q 155 5 155 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 10 Q 155 5 160 5" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 165 5)">
+        <path d="M 160 0 Q 165 5 170 10" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 170 0 Q 165 5 160 10" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 175 5)">
+        <path d="M 170 5 Q 175 5 175 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 10 Q 175 5 180 5" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 185 5)">
+        <path d="M 180 5 Q 185 5 185 0" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 10 Q 185 5 190 5" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 195 5)">
+        <path d="M 190 0 Q 195 5 200 10" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 200 0 Q 195 5 190 10" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 5 15)">
+        <path d="M 0 10 Q 5 15 10 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 10 10 Q 5 15 0 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 15 15)">
+        <path d="M 10 15 Q 15 15 15 10" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 20 Q 15 15 20 15" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 25 15)">
+        <path d="M 20 15 Q 25 15 25 10" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 20 Q 25 15 30 15" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 20 20 Q 25 15 30 10" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 35 15)">
+        <path d="M 30 15 Q 35 15 35 10" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 20 Q 35 15 40 15" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 30 20 Q 35 15 40 10" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 45 15)">
+        <path d="M 40 10 Q 45 15 50 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 50 10 Q 45 15 40 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 55 15)">
+        <path d="M 50 15 Q 55 15 55 10" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 20 Q 55 15 60 15" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 50 20 Q 55 15 60 10" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 65 15)">
+        <path d="M 60 15 Q 65 15 65 10" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 20 Q 65 15 70 15" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 75 15)">
+        <path d="M 70 10 Q 75 15 80 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 80 10 Q 75 15 70 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 85 15)">
+        <path d="M 80 10 Q 85 15 90 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 90 10 Q 85 15 80 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 95 15)">
+        <path d="M 90 10 Q 95 15 100 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 100 10 Q 95 15 90 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 105 15)">
+        <path d="M 100 15 Q 105 15 105 10" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 20 Q 105 15 110 15" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 115 15)">
+        <path d="M 110 15 Q 115 15 115 10" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 20 Q 115 15 120 15" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 110 20 Q 115 15 120 10" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 125 15)">
+        <path d="M 120 15 Q 125 15 125 10" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 20 Q 125 15 130 15" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 20 Q 125 15 130 10" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 135 15)">
+        <path d="M 130 10 Q 135 15 140 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 140 10 Q 135 15 130 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 145 15)">
+        <path d="M 140 15 Q 145 15 145 10" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 20 Q 145 15 150 15" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 140 20 Q 145 15 150 10" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 155 15)">
+        <path d="M 150 15 Q 155 15 155 10" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 20 Q 155 15 160 15" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 165 15)">
+        <path d="M 160 10 Q 165 15 170 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 170 10 Q 165 15 160 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 175 15)">
+        <path d="M 170 15 Q 175 15 175 10" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 20 Q 175 15 180 15" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 185 15)">
+        <path d="M 180 15 Q 185 15 185 10" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 20 Q 185 15 190 15" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 180 20 Q 185 15 190 10" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 195 15)">
+        <path d="M 190 10 Q 195 15 200 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 200 10 Q 195 15 190 20" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 5 25)">
+        <path d="M 0 25 Q 5 25 5 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 30 Q 5 25 10 25" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 0 30 Q 5 25 10 20" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 15 25)">
+        <path d="M 10 25 Q 15 25 15 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 30 Q 15 25 20 25" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 25 25)">
+        <path d="M 20 25 Q 25 25 25 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 30 Q 25 25 30 25" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 35 25)">
+        <path d="M 30 25 Q 35 25 35 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 30 Q 35 25 40 25" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 30 30 Q 35 25 40 20" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 45 25)">
+        <path d="M 40 25 Q 45 25 45 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 30 Q 45 25 50 25" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 55 25)">
+        <path d="M 50 25 Q 55 25 55 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 30 Q 55 25 60 25" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 65 25)">
+        <path d="M 60 25 Q 65 25 65 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 30 Q 65 25 70 25" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 60 30 Q 65 25 70 20" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 75 25)">
+        <path d="M 70 20 Q 75 25 80 30" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 80 20 Q 75 25 70 30" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 85 25)">
+        <path d="M 80 20 Q 85 25 90 30" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 90 20 Q 85 25 80 30" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 95 25)">
+        <path d="M 90 25 Q 95 25 95 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 30 Q 95 25 100 25" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 90 30 Q 95 25 100 20" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 105 25)">
+        <path d="M 100 25 Q 105 25 105 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 30 Q 105 25 110 25" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 115 25)">
+        <path d="M 110 25 Q 115 25 115 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 30 Q 115 25 120 25" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 110 30 Q 115 25 120 20" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 125 25)">
+        <path d="M 120 25 Q 125 25 125 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 30 Q 125 25 130 25" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 30 Q 125 25 130 20" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 135 25)">
+        <path d="M 130 25 Q 135 25 135 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 30 Q 135 25 140 25" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 130 30 Q 135 25 140 20" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 145 25)">
+        <path d="M 140 25 Q 145 25 145 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 30 Q 145 25 150 25" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 155 25)">
+        <path d="M 150 25 Q 155 25 155 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 30 Q 155 25 160 25" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 150 30 Q 155 25 160 20" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 165 25)">
+        <path d="M 160 20 Q 165 25 170 30" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 170 20 Q 165 25 160 30" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 175 25)">
+        <path d="M 170 25 Q 175 25 175 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 30 Q 175 25 180 25" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 185 25)">
+        <path d="M 180 25 Q 185 25 185 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 30 Q 185 25 190 25" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 180 30 Q 185 25 190 20" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 195 25)">
+        <path d="M 190 25 Q 195 25 195 20" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 30 Q 195 25 200 25" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 5 35)">
+        <path d="M 0 30 Q 5 35 10 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 10 30 Q 5 35 0 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 15 35)">
+        <path d="M 10 35 Q 15 35 15 30" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 40 Q 15 35 20 35" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 10 40 Q 15 35 20 30" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 25 35)">
+        <path d="M 20 30 Q 25 35 30 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 30 30 Q 25 35 20 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 35 35)">
+        <path d="M 30 30 Q 35 35 40 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 40 30 Q 35 35 30 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 45 35)">
+        <path d="M 40 35 Q 45 35 45 30" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 40 Q 45 35 50 35" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 40 40 Q 45 35 50 30" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 55 35)">
+        <path d="M 50 30 Q 55 35 60 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 60 30 Q 55 35 50 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 65 35)">
+        <path d="M 60 35 Q 65 35 65 30" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 40 Q 65 35 70 35" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 75 35)">
+        <path d="M 70 30 Q 75 35 80 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 80 30 Q 75 35 70 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 85 35)">
+        <path d="M 80 35 Q 85 35 85 30" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 40 Q 85 35 90 35" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 95 35)">
+        <path d="M 90 35 Q 95 35 95 30" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 40 Q 95 35 100 35" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 105 35)">
+        <path d="M 100 35 Q 105 35 105 30" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 40 Q 105 35 110 35" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 100 40 Q 105 35 110 30" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 115 35)">
+        <path d="M 110 35 Q 115 35 115 30" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 40 Q 115 35 120 35" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 125 35)">
+        <path d="M 120 30 Q 125 35 130 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 130 30 Q 125 35 120 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 135 35)">
+        <path d="M 130 30 Q 135 35 140 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 140 30 Q 135 35 130 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 145 35)">
+        <path d="M 140 30 Q 145 35 150 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 150 30 Q 145 35 140 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 155 35)">
+        <path d="M 150 35 Q 155 35 155 30" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 40 Q 155 35 160 35" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 165 35)">
+        <path d="M 160 35 Q 165 35 165 30" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 40 Q 165 35 170 35" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 160 40 Q 165 35 170 30" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 175 35)">
+        <path d="M 170 30 Q 175 35 180 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 30 Q 175 35 170 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 185 35)">
+        <path d="M 180 30 Q 185 35 190 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 190 30 Q 185 35 180 40" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 195 35)">
+        <path d="M 190 35 Q 195 35 195 30" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 40 Q 195 35 200 35" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 5 45)">
+        <path d="M 0 45 Q 5 45 5 40" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 50 Q 5 45 10 45" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 0 50 Q 5 45 10 40" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 15 45)">
+        <path d="M 10 40 Q 15 45 20 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 20 40 Q 15 45 10 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 25 45)">
+        <path d="M 20 40 Q 25 45 30 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 30 40 Q 25 45 20 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 35 45)">
+        <path d="M 30 45 Q 35 45 35 40" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 50 Q 35 45 40 45" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 45 45)">
+        <path d="M 40 45 Q 45 45 45 40" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 50 Q 45 45 50 45" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 55 45)">
+        <path d="M 50 45 Q 55 45 55 40" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 50 Q 55 45 60 45" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 50 50 Q 55 45 60 40" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 65 45)">
+        <path d="M 60 40 Q 65 45 70 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 70 40 Q 65 45 60 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 75 45)">
+        <path d="M 70 40 Q 75 45 80 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 80 40 Q 75 45 70 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 85 45)">
+        <path d="M 80 45 Q 85 45 85 40" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 50 Q 85 45 90 45" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 80 50 Q 85 45 90 40" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 95 45)">
+        <path d="M 90 40 Q 95 45 100 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 100 40 Q 95 45 90 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 105 45)">
+        <path d="M 100 40 Q 105 45 110 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 110 40 Q 105 45 100 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 115 45)">
+        <path d="M 110 40 Q 115 45 120 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 120 40 Q 115 45 110 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 125 45)">
+        <path d="M 120 45 Q 125 45 125 40" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 50 Q 125 45 130 45" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 50 Q 125 45 130 40" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 135 45)">
+        <path d="M 130 40 Q 135 45 140 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 140 40 Q 135 45 130 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 145 45)">
+        <path d="M 140 45 Q 145 45 145 40" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 50 Q 145 45 150 45" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 140 50 Q 145 45 150 40" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 155 45)">
+        <path d="M 150 40 Q 155 45 160 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 160 40 Q 155 45 150 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 165 45)">
+        <path d="M 160 40 Q 165 45 170 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 170 40 Q 165 45 160 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 175 45)">
+        <path d="M 170 45 Q 175 45 175 40" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 50 Q 175 45 180 45" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 185 45)">
+        <path d="M 180 40 Q 185 45 190 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 190 40 Q 185 45 180 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 195 45)">
+        <path d="M 190 40 Q 195 45 200 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 200 40 Q 195 45 190 50" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 5 55)">
+        <path d="M 0 55 Q 5 55 5 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 60 Q 5 55 10 55" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 0 60 Q 5 55 10 50" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 15 55)">
+        <path d="M 10 55 Q 15 55 15 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 60 Q 15 55 20 55" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 25 55)">
+        <path d="M 20 55 Q 25 55 25 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 60 Q 25 55 30 55" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 20 60 Q 25 55 30 50" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 35 55)">
+        <path d="M 30 55 Q 35 55 35 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 60 Q 35 55 40 55" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 45 55)">
+        <path d="M 40 50 Q 45 55 50 60" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 50 50 Q 45 55 40 60" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 55 55)">
+        <path d="M 50 55 Q 55 55 55 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 60 Q 55 55 60 55" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 65 55)">
+        <path d="M 60 55 Q 65 55 65 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 60 Q 65 55 70 55" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 60 60 Q 65 55 70 50" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 75 55)">
+        <path d="M 70 55 Q 75 55 75 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 60 Q 75 55 80 55" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 85 55)">
+        <path d="M 80 50 Q 85 55 90 60" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 90 50 Q 85 55 80 60" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 95 55)">
+        <path d="M 90 55 Q 95 55 95 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 60 Q 95 55 100 55" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 105 55)">
+        <path d="M 100 55 Q 105 55 105 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 60 Q 105 55 110 55" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 100 60 Q 105 55 110 50" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 115 55)">
+        <path d="M 110 55 Q 115 55 115 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 60 Q 115 55 120 55" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 110 60 Q 115 55 120 50" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 125 55)">
+        <path d="M 120 55 Q 125 55 125 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 60 Q 125 55 130 55" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 60 Q 125 55 130 50" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 135 55)">
+        <path d="M 130 50 Q 135 55 140 60" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 140 50 Q 135 55 130 60" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 145 55)">
+        <path d="M 140 55 Q 145 55 145 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 60 Q 145 55 150 55" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 155 55)">
+        <path d="M 150 50 Q 155 55 160 60" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 160 50 Q 155 55 150 60" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 165 55)">
+        <path d="M 160 55 Q 165 55 165 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 60 Q 165 55 170 55" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 175 55)">
+        <path d="M 170 50 Q 175 55 180 60" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 50 Q 175 55 170 60" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 185 55)">
+        <path d="M 180 50 Q 185 55 190 60" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 190 50 Q 185 55 180 60" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 195 55)">
+        <path d="M 190 55 Q 195 55 195 50" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 60 Q 195 55 200 55" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 5 65)">
+        <path d="M 0 65 Q 5 65 5 60" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 70 Q 5 65 10 65" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 0 70 Q 5 65 10 60" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 15 65)">
+        <path d="M 10 60 Q 15 65 20 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 20 60 Q 15 65 10 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 25 65)">
+        <path d="M 20 65 Q 25 65 25 60" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 70 Q 25 65 30 65" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 20 70 Q 25 65 30 60" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 35 65)">
+        <path d="M 30 65 Q 35 65 35 60" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 70 Q 35 65 40 65" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 30 70 Q 35 65 40 60" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 45 65)">
+        <path d="M 40 65 Q 45 65 45 60" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 70 Q 45 65 50 65" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 40 70 Q 45 65 50 60" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 55 65)">
+        <path d="M 50 60 Q 55 65 60 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 60 60 Q 55 65 50 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 65 65)">
+        <path d="M 60 60 Q 65 65 70 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 70 60 Q 65 65 60 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 75 65)">
+        <path d="M 70 60 Q 75 65 80 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 80 60 Q 75 65 70 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 85 65)">
+        <path d="M 80 65 Q 85 65 85 60" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 70 Q 85 65 90 65" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 95 65)">
+        <path d="M 90 65 Q 95 65 95 60" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 70 Q 95 65 100 65" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 105 65)">
+        <path d="M 100 60 Q 105 65 110 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 110 60 Q 105 65 100 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 115 65)">
+        <path d="M 110 60 Q 115 65 120 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 120 60 Q 115 65 110 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 125 65)">
+        <path d="M 120 60 Q 125 65 130 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 130 60 Q 125 65 120 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 135 65)">
+        <path d="M 130 65 Q 135 65 135 60" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 70 Q 135 65 140 65" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 130 70 Q 135 65 140 60" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 145 65)">
+        <path d="M 140 60 Q 145 65 150 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 150 60 Q 145 65 140 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 155 65)">
+        <path d="M 150 65 Q 155 65 155 60" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 70 Q 155 65 160 65" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 165 65)">
+        <path d="M 160 60 Q 165 65 170 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 170 60 Q 165 65 160 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 175 65)">
+        <path d="M 170 65 Q 175 65 175 60" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 70 Q 175 65 180 65" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 170 70 Q 175 65 180 60" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 185 65)">
+        <path d="M 180 65 Q 185 65 185 60" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 70 Q 185 65 190 65" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 180 70 Q 185 65 190 60" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 195 65)">
+        <path d="M 190 60 Q 195 65 200 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 200 60 Q 195 65 190 70" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 5 75)">
+        <path d="M 0 75 Q 5 75 5 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 80 Q 5 75 10 75" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 15 75)">
+        <path d="M 10 75 Q 15 75 15 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 80 Q 15 75 20 75" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 10 80 Q 15 75 20 70" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 25 75)">
+        <path d="M 20 75 Q 25 75 25 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 80 Q 25 75 30 75" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 20 80 Q 25 75 30 70" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 35 75)">
+        <path d="M 30 70 Q 35 75 40 80" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 40 70 Q 35 75 30 80" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 45 75)">
+        <path d="M 40 75 Q 45 75 45 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 80 Q 45 75 50 75" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 55 75)">
+        <path d="M 50 75 Q 55 75 55 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 80 Q 55 75 60 75" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 50 80 Q 55 75 60 70" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 65 75)">
+        <path d="M 60 75 Q 65 75 65 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 80 Q 65 75 70 75" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 75 75)">
+        <path d="M 70 75 Q 75 75 75 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 80 Q 75 75 80 75" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 85 75)">
+        <path d="M 80 75 Q 85 75 85 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 80 Q 85 75 90 75" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 80 80 Q 85 75 90 70" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 95 75)">
+        <path d="M 90 75 Q 95 75 95 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 80 Q 95 75 100 75" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 90 80 Q 95 75 100 70" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 105 75)">
+        <path d="M 100 75 Q 105 75 105 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 80 Q 105 75 110 75" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 100 80 Q 105 75 110 70" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 115 75)">
+        <path d="M 110 70 Q 115 75 120 80" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 120 70 Q 115 75 110 80" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 125 75)">
+        <path d="M 120 75 Q 125 75 125 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 80 Q 125 75 130 75" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 80 Q 125 75 130 70" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 135 75)">
+        <path d="M 130 70 Q 135 75 140 80" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 140 70 Q 135 75 130 80" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 145 75)">
+        <path d="M 140 75 Q 145 75 145 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 80 Q 145 75 150 75" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 140 80 Q 145 75 150 70" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 155 75)">
+        <path d="M 150 70 Q 155 75 160 80" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 160 70 Q 155 75 150 80" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 165 75)">
+        <path d="M 160 75 Q 165 75 165 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 80 Q 165 75 170 75" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 175 75)">
+        <path d="M 170 70 Q 175 75 180 80" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 70 Q 175 75 170 80" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 185 75)">
+        <path d="M 180 70 Q 185 75 190 80" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 190 70 Q 185 75 180 80" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 195 75)">
+        <path d="M 190 75 Q 195 75 195 70" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 80 Q 195 75 200 75" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 190 80 Q 195 75 200 70" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 5 85)">
+        <path d="M 0 80 Q 5 85 10 90" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 10 80 Q 5 85 0 90" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 15 85)">
+        <path d="M 10 85 Q 15 85 15 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 90 Q 15 85 20 85" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 25 85)">
+        <path d="M 20 85 Q 25 85 25 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 90 Q 25 85 30 85" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 35 85)">
+        <path d="M 30 85 Q 35 85 35 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 90 Q 35 85 40 85" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 45 85)">
+        <path d="M 40 80 Q 45 85 50 90" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 50 80 Q 45 85 40 90" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 55 85)">
+        <path d="M 50 85 Q 55 85 55 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 90 Q 55 85 60 85" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 65 85)">
+        <path d="M 60 80 Q 65 85 70 90" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 70 80 Q 65 85 60 90" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 75 85)">
+        <path d="M 70 85 Q 75 85 75 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 90 Q 75 85 80 85" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 70 90 Q 75 85 80 80" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 85 85)">
+        <path d="M 80 85 Q 85 85 85 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 90 Q 85 85 90 85" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 80 90 Q 85 85 90 80" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 95 85)">
+        <path d="M 90 85 Q 95 85 95 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 90 Q 95 85 100 85" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 105 85)">
+        <path d="M 100 80 Q 105 85 110 90" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 110 80 Q 105 85 100 90" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 115 85)">
+        <path d="M 110 85 Q 115 85 115 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 90 Q 115 85 120 85" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 125 85)">
+        <path d="M 120 80 Q 125 85 130 90" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 130 80 Q 125 85 120 90" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 135 85)">
+        <path d="M 130 85 Q 135 85 135 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 90 Q 135 85 140 85" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 145 85)">
+        <path d="M 140 85 Q 145 85 145 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 90 Q 145 85 150 85" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 140 90 Q 145 85 150 80" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 155 85)">
+        <path d="M 150 85 Q 155 85 155 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 90 Q 155 85 160 85" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 165 85)">
+        <path d="M 160 80 Q 165 85 170 90" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 170 80 Q 165 85 160 90" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 175 85)">
+        <path d="M 170 85 Q 175 85 175 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 90 Q 175 85 180 85" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 170 90 Q 175 85 180 80" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 185 85)">
+        <path d="M 180 85 Q 185 85 185 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 90 Q 185 85 190 85" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 180 90 Q 185 85 190 80" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 195 85)">
+        <path d="M 190 85 Q 195 85 195 80" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 90 Q 195 85 200 85" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 5 95)">
+        <path d="M 0 95 Q 5 95 5 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 100 Q 5 95 10 95" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 15 95)">
+        <path d="M 10 90 Q 15 95 20 100" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 20 90 Q 15 95 10 100" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 25 95)">
+        <path d="M 20 90 Q 25 95 30 100" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 30 90 Q 25 95 20 100" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 35 95)">
+        <path d="M 30 95 Q 35 95 35 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 100 Q 35 95 40 95" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 45 95)">
+        <path d="M 40 95 Q 45 95 45 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 100 Q 45 95 50 95" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 40 100 Q 45 95 50 90" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 55 95)">
+        <path d="M 50 90 Q 55 95 60 100" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 60 90 Q 55 95 50 100" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 65 95)">
+        <path d="M 60 95 Q 65 95 65 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 100 Q 65 95 70 95" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 60 100 Q 65 95 70 90" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 75 95)">
+        <path d="M 70 95 Q 75 95 75 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 100 Q 75 95 80 95" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 85 95)">
+        <path d="M 80 90 Q 85 95 90 100" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 90 90 Q 85 95 80 100" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 95 95)">
+        <path d="M 90 95 Q 95 95 95 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 100 Q 95 95 100 95" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 105 95)">
+        <path d="M 100 95 Q 105 95 105 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 100 Q 105 95 110 95" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 100 100 Q 105 95 110 90" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 115 95)">
+        <path d="M 110 95 Q 115 95 115 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 100 Q 115 95 120 95" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 110 100 Q 115 95 120 90" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 125 95)">
+        <path d="M 120 95 Q 125 95 125 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 100 Q 125 95 130 95" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 100 Q 125 95 130 90" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 135 95)">
+        <path d="M 130 95 Q 135 95 135 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 100 Q 135 95 140 95" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 145 95)">
+        <path d="M 140 95 Q 145 95 145 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 100 Q 145 95 150 95" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 140 100 Q 145 95 150 90" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 155 95)">
+        <path d="M 150 95 Q 155 95 155 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 100 Q 155 95 160 95" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 165 95)">
+        <path d="M 160 95 Q 165 95 165 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 100 Q 165 95 170 95" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 160 100 Q 165 95 170 90" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 175 95)">
+        <path d="M 170 95 Q 175 95 175 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 100 Q 175 95 180 95" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 185 95)">
+        <path d="M 180 90 Q 185 95 190 100" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 190 90 Q 185 95 180 100" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 195 95)">
+        <path d="M 190 95 Q 195 95 195 90" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 100 Q 195 95 200 95" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 5 105)">
+        <path d="M 0 105 Q 5 105 5 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 110 Q 5 105 10 105" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 15 105)">
+        <path d="M 10 105 Q 15 105 15 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 110 Q 15 105 20 105" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 25 105)">
+        <path d="M 20 105 Q 25 105 25 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 110 Q 25 105 30 105" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 20 110 Q 25 105 30 100" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 35 105)">
+        <path d="M 30 105 Q 35 105 35 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 110 Q 35 105 40 105" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 30 110 Q 35 105 40 100" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 45 105)">
+        <path d="M 40 105 Q 45 105 45 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 110 Q 45 105 50 105" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 40 110 Q 45 105 50 100" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 55 105)">
+        <path d="M 50 105 Q 55 105 55 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 110 Q 55 105 60 105" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 65 105)">
+        <path d="M 60 100 Q 65 105 70 110" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 70 100 Q 65 105 60 110" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 75 105)">
+        <path d="M 70 105 Q 75 105 75 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 110 Q 75 105 80 105" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 85 105)">
+        <path d="M 80 105 Q 85 105 85 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 110 Q 85 105 90 105" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 80 110 Q 85 105 90 100" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 95 105)">
+        <path d="M 90 105 Q 95 105 95 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 110 Q 95 105 100 105" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 90 110 Q 95 105 100 100" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 105 105)">
+        <path d="M 100 100 Q 105 105 110 110" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 110 100 Q 105 105 100 110" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 115 105)">
+        <path d="M 110 100 Q 115 105 120 110" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 120 100 Q 115 105 110 110" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 125 105)">
+        <path d="M 120 100 Q 125 105 130 110" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 130 100 Q 125 105 120 110" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 135 105)">
+        <path d="M 130 100 Q 135 105 140 110" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 140 100 Q 135 105 130 110" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 145 105)">
+        <path d="M 140 100 Q 145 105 150 110" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 150 100 Q 145 105 140 110" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 155 105)">
+        <path d="M 150 105 Q 155 105 155 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 110 Q 155 105 160 105" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 165 105)">
+        <path d="M 160 105 Q 165 105 165 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 110 Q 165 105 170 105" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 160 110 Q 165 105 170 100" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 175 105)">
+        <path d="M 170 105 Q 175 105 175 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 110 Q 175 105 180 105" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 185 105)">
+        <path d="M 180 105 Q 185 105 185 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 110 Q 185 105 190 105" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 195 105)">
+        <path d="M 190 105 Q 195 105 195 100" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 110 Q 195 105 200 105" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 5 115)">
+        <path d="M 0 110 Q 5 115 10 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 10 110 Q 5 115 0 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 15 115)">
+        <path d="M 10 110 Q 15 115 20 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 20 110 Q 15 115 10 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 25 115)">
+        <path d="M 20 115 Q 25 115 25 110" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 120 Q 25 115 30 115" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 35 115)">
+        <path d="M 30 110 Q 35 115 40 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 40 110 Q 35 115 30 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 45 115)">
+        <path d="M 40 110 Q 45 115 50 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 50 110 Q 45 115 40 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 55 115)">
+        <path d="M 50 110 Q 55 115 60 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 60 110 Q 55 115 50 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 65 115)">
+        <path d="M 60 115 Q 65 115 65 110" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 120 Q 65 115 70 115" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 60 120 Q 65 115 70 110" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 75 115)">
+        <path d="M 70 110 Q 75 115 80 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 80 110 Q 75 115 70 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 85 115)">
+        <path d="M 80 115 Q 85 115 85 110" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 120 Q 85 115 90 115" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 95 115)">
+        <path d="M 90 115 Q 95 115 95 110" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 120 Q 95 115 100 115" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 90 120 Q 95 115 100 110" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 105 115)">
+        <path d="M 100 115 Q 105 115 105 110" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 120 Q 105 115 110 115" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 115 115)">
+        <path d="M 110 110 Q 115 115 120 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 120 110 Q 115 115 110 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 125 115)">
+        <path d="M 120 115 Q 125 115 125 110" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 120 Q 125 115 130 115" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 120 Q 125 115 130 110" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 135 115)">
+        <path d="M 130 115 Q 135 115 135 110" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 120 Q 135 115 140 115" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 130 120 Q 135 115 140 110" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 145 115)">
+        <path d="M 140 110 Q 145 115 150 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 150 110 Q 145 115 140 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 155 115)">
+        <path d="M 150 115 Q 155 115 155 110" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 120 Q 155 115 160 115" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 150 120 Q 155 115 160 110" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 165 115)">
+        <path d="M 160 110 Q 165 115 170 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 170 110 Q 165 115 160 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 175 115)">
+        <path d="M 170 110 Q 175 115 180 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 110 Q 175 115 170 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 185 115)">
+        <path d="M 180 110 Q 185 115 190 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 190 110 Q 185 115 180 120" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 195 115)">
+        <path d="M 190 115 Q 195 115 195 110" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 120 Q 195 115 200 115" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 190 120 Q 195 115 200 110" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 5 125)">
+        <path d="M 0 120 Q 5 125 10 130" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 10 120 Q 5 125 0 130" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 15 125)">
+        <path d="M 10 125 Q 15 125 15 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 130 Q 15 125 20 125" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 25 125)">
+        <path d="M 20 125 Q 25 125 25 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 130 Q 25 125 30 125" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 20 130 Q 25 125 30 120" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 35 125)">
+        <path d="M 30 125 Q 35 125 35 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 130 Q 35 125 40 125" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 30 130 Q 35 125 40 120" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 45 125)">
+        <path d="M 40 125 Q 45 125 45 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 130 Q 45 125 50 125" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 55 125)">
+        <path d="M 50 120 Q 55 125 60 130" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 60 120 Q 55 125 50 130" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 65 125)">
+        <path d="M 60 120 Q 65 125 70 130" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 70 120 Q 65 125 60 130" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 75 125)">
+        <path d="M 70 125 Q 75 125 75 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 130 Q 75 125 80 125" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 70 130 Q 75 125 80 120" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 85 125)">
+        <path d="M 80 125 Q 85 125 85 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 130 Q 85 125 90 125" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 95 125)">
+        <path d="M 90 125 Q 95 125 95 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 130 Q 95 125 100 125" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 90 130 Q 95 125 100 120" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 105 125)">
+        <path d="M 100 125 Q 105 125 105 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 130 Q 105 125 110 125" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 115 125)">
+        <path d="M 110 125 Q 115 125 115 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 130 Q 115 125 120 125" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 110 130 Q 115 125 120 120" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 125 125)">
+        <path d="M 120 125 Q 125 125 125 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 130 Q 125 125 130 125" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 130 Q 125 125 130 120" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 135 125)">
+        <path d="M 130 125 Q 135 125 135 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 130 Q 135 125 140 125" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 130 130 Q 135 125 140 120" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 145 125)">
+        <path d="M 140 125 Q 145 125 145 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 130 Q 145 125 150 125" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 140 130 Q 145 125 150 120" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 155 125)">
+        <path d="M 150 120 Q 155 125 160 130" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 160 120 Q 155 125 150 130" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 165 125)">
+        <path d="M 160 125 Q 165 125 165 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 130 Q 165 125 170 125" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 160 130 Q 165 125 170 120" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 175 125)">
+        <path d="M 170 120 Q 175 125 180 130" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 120 Q 175 125 170 130" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 185 125)">
+        <path d="M 180 125 Q 185 125 185 120" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 130 Q 185 125 190 125" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 195 125)">
+        <path d="M 190 120 Q 195 125 200 130" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 200 120 Q 195 125 190 130" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 5 135)">
+        <path d="M 0 135 Q 5 135 5 130" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 140 Q 5 135 10 135" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 0 140 Q 5 135 10 130" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 15 135)">
+        <path d="M 10 130 Q 15 135 20 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 20 130 Q 15 135 10 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 25 135)">
+        <path d="M 20 130 Q 25 135 30 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 30 130 Q 25 135 20 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 35 135)">
+        <path d="M 30 130 Q 35 135 40 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 40 130 Q 35 135 30 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 45 135)">
+        <path d="M 40 130 Q 45 135 50 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 50 130 Q 45 135 40 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 55 135)">
+        <path d="M 50 135 Q 55 135 55 130" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 140 Q 55 135 60 135" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 50 140 Q 55 135 60 130" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 65 135)">
+        <path d="M 60 135 Q 65 135 65 130" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 140 Q 65 135 70 135" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 75 135)">
+        <path d="M 70 130 Q 75 135 80 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 80 130 Q 75 135 70 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 85 135)">
+        <path d="M 80 130 Q 85 135 90 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 90 130 Q 85 135 80 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 95 135)">
+        <path d="M 90 135 Q 95 135 95 130" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 140 Q 95 135 100 135" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 105 135)">
+        <path d="M 100 130 Q 105 135 110 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 110 130 Q 105 135 100 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 115 135)">
+        <path d="M 110 130 Q 115 135 120 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 120 130 Q 115 135 110 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 125 135)">
+        <path d="M 120 135 Q 125 135 125 130" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 140 Q 125 135 130 135" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 135 135)">
+        <path d="M 130 130 Q 135 135 140 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 140 130 Q 135 135 130 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 145 135)">
+        <path d="M 140 135 Q 145 135 145 130" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 140 Q 145 135 150 135" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 140 140 Q 145 135 150 130" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 155 135)">
+        <path d="M 150 130 Q 155 135 160 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 160 130 Q 155 135 150 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 165 135)">
+        <path d="M 160 135 Q 165 135 165 130" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 140 Q 165 135 170 135" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 175 135)">
+        <path d="M 170 130 Q 175 135 180 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 130 Q 175 135 170 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 185 135)">
+        <path d="M 180 130 Q 185 135 190 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 190 130 Q 185 135 180 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 195 135)">
+        <path d="M 190 130 Q 195 135 200 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 200 130 Q 195 135 190 140" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 5 145)">
+        <path d="M 0 145 Q 5 145 5 140" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 150 Q 5 145 10 145" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 0 150 Q 5 145 10 140" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 15 145)">
+        <path d="M 10 145 Q 15 145 15 140" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 150 Q 15 145 20 145" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 25 145)">
+        <path d="M 20 140 Q 25 145 30 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 30 140 Q 25 145 20 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 35 145)">
+        <path d="M 30 145 Q 35 145 35 140" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 150 Q 35 145 40 145" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 45 145)">
+        <path d="M 40 145 Q 45 145 45 140" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 150 Q 45 145 50 145" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 40 150 Q 45 145 50 140" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 55 145)">
+        <path d="M 50 145 Q 55 145 55 140" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 150 Q 55 145 60 145" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 50 150 Q 55 145 60 140" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 65 145)">
+        <path d="M 60 140 Q 65 145 70 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 70 140 Q 65 145 60 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 75 145)">
+        <path d="M 70 140 Q 75 145 80 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 80 140 Q 75 145 70 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 85 145)">
+        <path d="M 80 140 Q 85 145 90 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 90 140 Q 85 145 80 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 95 145)">
+        <path d="M 90 145 Q 95 145 95 140" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 150 Q 95 145 100 145" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 105 145)">
+        <path d="M 100 140 Q 105 145 110 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 110 140 Q 105 145 100 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 115 145)">
+        <path d="M 110 145 Q 115 145 115 140" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 150 Q 115 145 120 145" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 110 150 Q 115 145 120 140" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 125 145)">
+        <path d="M 120 145 Q 125 145 125 140" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 150 Q 125 145 130 145" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 150 Q 125 145 130 140" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 135 145)">
+        <path d="M 130 140 Q 135 145 140 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 140 140 Q 135 145 130 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 145 145)">
+        <path d="M 140 145 Q 145 145 145 140" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 150 Q 145 145 150 145" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 155 145)">
+        <path d="M 150 140 Q 155 145 160 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 160 140 Q 155 145 150 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 165 145)">
+        <path d="M 160 140 Q 165 145 170 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 170 140 Q 165 145 160 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 175 145)">
+        <path d="M 170 140 Q 175 145 180 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 140 Q 175 145 170 150" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 185 145)">
+        <path d="M 180 145 Q 185 145 185 140" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 150 Q 185 145 190 145" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 195 145)">
+        <path d="M 190 145 Q 195 145 195 140" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 150 Q 195 145 200 145" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 190 150 Q 195 145 200 140" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 5 155)">
+        <path d="M 0 155 Q 5 155 5 150" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 160 Q 5 155 10 155" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 15 155)">
+        <path d="M 10 155 Q 15 155 15 150" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 160 Q 15 155 20 155" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 10 160 Q 15 155 20 150" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 25 155)">
+        <path d="M 20 150 Q 25 155 30 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 30 150 Q 25 155 20 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 35 155)">
+        <path d="M 30 155 Q 35 155 35 150" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 160 Q 35 155 40 155" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 30 160 Q 35 155 40 150" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 45 155)">
+        <path d="M 40 155 Q 45 155 45 150" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 160 Q 45 155 50 155" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 40 160 Q 45 155 50 150" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 55 155)">
+        <path d="M 50 150 Q 55 155 60 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 60 150 Q 55 155 50 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 65 155)">
+        <path d="M 60 150 Q 65 155 70 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 70 150 Q 65 155 60 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 75 155)">
+        <path d="M 70 155 Q 75 155 75 150" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 160 Q 75 155 80 155" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 85 155)">
+        <path d="M 80 155 Q 85 155 85 150" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 160 Q 85 155 90 155" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 95 155)">
+        <path d="M 90 155 Q 95 155 95 150" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 160 Q 95 155 100 155" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 90 160 Q 95 155 100 150" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 105 155)">
+        <path d="M 100 150 Q 105 155 110 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 110 150 Q 105 155 100 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 115 155)">
+        <path d="M 110 150 Q 115 155 120 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 120 150 Q 115 155 110 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 125 155)">
+        <path d="M 120 155 Q 125 155 125 150" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 160 Q 125 155 130 155" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 160 Q 125 155 130 150" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 135 155)">
+        <path d="M 130 155 Q 135 155 135 150" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 160 Q 135 155 140 155" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 130 160 Q 135 155 140 150" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 145 155)">
+        <path d="M 140 155 Q 145 155 145 150" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 160 Q 145 155 150 155" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 155 155)">
+        <path d="M 150 155 Q 155 155 155 150" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 160 Q 155 155 160 155" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 150 160 Q 155 155 160 150" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 165 155)">
+        <path d="M 160 150 Q 165 155 170 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 170 150 Q 165 155 160 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 175 155)">
+        <path d="M 170 155 Q 175 155 175 150" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 160 Q 175 155 180 155" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 185 155)">
+        <path d="M 180 150 Q 185 155 190 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 190 150 Q 185 155 180 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 195 155)">
+        <path d="M 190 150 Q 195 155 200 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 200 150 Q 195 155 190 160" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 5 165)">
+        <path d="M 0 160 Q 5 165 10 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 10 160 Q 5 165 0 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 15 165)">
+        <path d="M 10 160 Q 15 165 20 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 20 160 Q 15 165 10 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 25 165)">
+        <path d="M 20 165 Q 25 165 25 160" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 170 Q 25 165 30 165" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 20 170 Q 25 165 30 160" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 35 165)">
+        <path d="M 30 160 Q 35 165 40 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 40 160 Q 35 165 30 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 45 165)">
+        <path d="M 40 160 Q 45 165 50 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 50 160 Q 45 165 40 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 55 165)">
+        <path d="M 50 165 Q 55 165 55 160" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 170 Q 55 165 60 165" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 50 170 Q 55 165 60 160" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 65 165)">
+        <path d="M 60 160 Q 65 165 70 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 70 160 Q 65 165 60 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 75 165)">
+        <path d="M 70 165 Q 75 165 75 160" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 170 Q 75 165 80 165" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 70 170 Q 75 165 80 160" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 85 165)">
+        <path d="M 80 165 Q 85 165 85 160" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 170 Q 85 165 90 165" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 80 170 Q 85 165 90 160" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 95 165)">
+        <path d="M 90 165 Q 95 165 95 160" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 170 Q 95 165 100 165" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 90 170 Q 95 165 100 160" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 105 165)">
+        <path d="M 100 165 Q 105 165 105 160" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 170 Q 105 165 110 165" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 100 170 Q 105 165 110 160" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 115 165)">
+        <path d="M 110 165 Q 115 165 115 160" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 170 Q 115 165 120 165" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 125 165)">
+        <path d="M 120 160 Q 125 165 130 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 130 160 Q 125 165 120 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 135 165)">
+        <path d="M 130 165 Q 135 165 135 160" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 170 Q 135 165 140 165" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 130 170 Q 135 165 140 160" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 145 165)">
+        <path d="M 140 165 Q 145 165 145 160" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 170 Q 145 165 150 165" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 155 165)">
+        <path d="M 150 165 Q 155 165 155 160" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 170 Q 155 165 160 165" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 150 170 Q 155 165 160 160" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 165 165)">
+        <path d="M 160 165 Q 165 165 165 160" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 170 Q 165 165 170 165" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 175 165)">
+        <path d="M 170 160 Q 175 165 180 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 160 Q 175 165 170 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 185 165)">
+        <path d="M 180 160 Q 185 165 190 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 190 160 Q 185 165 180 170" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 195 165)">
+        <path d="M 190 165 Q 195 165 195 160" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 170 Q 195 165 200 165" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 190 170 Q 195 165 200 160" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 5 175)">
+        <path d="M 0 175 Q 5 175 5 170" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 180 Q 5 175 10 175" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 0 180 Q 5 175 10 170" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 15 175)">
+        <path d="M 10 175 Q 15 175 15 170" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 180 Q 15 175 20 175" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 25 175)">
+        <path d="M 20 175 Q 25 175 25 170" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 180 Q 25 175 30 175" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 35 175)">
+        <path d="M 30 170 Q 35 175 40 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 40 170 Q 35 175 30 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 45 175)">
+        <path d="M 40 170 Q 45 175 50 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 50 170 Q 45 175 40 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 55 175)">
+        <path d="M 50 170 Q 55 175 60 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 60 170 Q 55 175 50 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 65 175)">
+        <path d="M 60 175 Q 65 175 65 170" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 180 Q 65 175 70 175" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 60 180 Q 65 175 70 170" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 75 175)">
+        <path d="M 70 175 Q 75 175 75 170" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 180 Q 75 175 80 175" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 70 180 Q 75 175 80 170" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 85 175)">
+        <path d="M 80 170 Q 85 175 90 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 90 170 Q 85 175 80 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 95 175)">
+        <path d="M 90 175 Q 95 175 95 170" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 180 Q 95 175 100 175" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 105 175)">
+        <path d="M 100 175 Q 105 175 105 170" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 180 Q 105 175 110 175" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 100 180 Q 105 175 110 170" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 115 175)">
+        <path d="M 110 175 Q 115 175 115 170" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 180 Q 115 175 120 175" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 110 180 Q 115 175 120 170" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 125 175)">
+        <path d="M 120 170 Q 125 175 130 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 130 170 Q 125 175 120 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 135 175)">
+        <path d="M 130 175 Q 135 175 135 170" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 180 Q 135 175 140 175" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 145 175)">
+        <path d="M 140 170 Q 145 175 150 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 150 170 Q 145 175 140 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 155 175)">
+        <path d="M 150 175 Q 155 175 155 170" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 180 Q 155 175 160 175" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 165 175)">
+        <path d="M 160 175 Q 165 175 165 170" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 180 Q 165 175 170 175" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 175 175)">
+        <path d="M 170 170 Q 175 175 180 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 170 Q 175 175 170 180" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 185 175)">
+        <path d="M 180 175 Q 185 175 185 170" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 180 Q 185 175 190 175" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 180 180 Q 185 175 190 170" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 195 175)">
+        <path d="M 190 175 Q 195 175 195 170" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 180 Q 195 175 200 175" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 5 185)">
+        <path d="M 0 185 Q 5 185 5 180" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 190 Q 5 185 10 185" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 15 185)">
+        <path d="M 10 180 Q 15 185 20 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 20 180 Q 15 185 10 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 25 185)">
+        <path d="M 20 185 Q 25 185 25 180" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 190 Q 25 185 30 185" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 35 185)">
+        <path d="M 30 180 Q 35 185 40 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 40 180 Q 35 185 30 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 45 185)">
+        <path d="M 40 185 Q 45 185 45 180" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 190 Q 45 185 50 185" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 55 185)">
+        <path d="M 50 185 Q 55 185 55 180" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 190 Q 55 185 60 185" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 50 190 Q 55 185 60 180" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 65 185)">
+        <path d="M 60 185 Q 65 185 65 180" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 190 Q 65 185 70 185" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 75 185)">
+        <path d="M 70 185 Q 75 185 75 180" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 190 Q 75 185 80 185" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 70 190 Q 75 185 80 180" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 85 185)">
+        <path d="M 80 180 Q 85 185 90 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 90 180 Q 85 185 80 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 95 185)">
+        <path d="M 90 185 Q 95 185 95 180" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 190 Q 95 185 100 185" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 90 190 Q 95 185 100 180" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 105 185)">
+        <path d="M 100 180 Q 105 185 110 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 110 180 Q 105 185 100 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 115 185)">
+        <path d="M 110 180 Q 115 185 120 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 120 180 Q 115 185 110 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 125 185)">
+        <path d="M 120 180 Q 125 185 130 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 130 180 Q 125 185 120 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 135 185)">
+        <path d="M 130 180 Q 135 185 140 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 140 180 Q 135 185 130 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 145 185)">
+        <path d="M 140 185 Q 145 185 145 180" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 190 Q 145 185 150 185" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 140 190 Q 145 185 150 180" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 155 185)">
+        <path d="M 150 180 Q 155 185 160 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 160 180 Q 155 185 150 190" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 165 185)">
+        <path d="M 160 185 Q 165 185 165 180" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 190 Q 165 185 170 185" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 175 185)">
+        <path d="M 170 185 Q 175 185 175 180" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 190 Q 175 185 180 185" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 185 185)">
+        <path d="M 180 185 Q 185 185 185 180" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 190 Q 185 185 190 185" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 180 190 Q 185 185 190 180" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 195 185)">
+        <path d="M 190 185 Q 195 185 195 180" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 190 Q 195 185 200 185" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 190 190 Q 195 185 200 180" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 5 195)">
+        <path d="M 0 195 Q 5 195 5 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 200 Q 5 195 10 195" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 15 195)">
+        <path d="M 10 195 Q 15 195 15 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 200 Q 15 195 20 195" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 10 200 Q 15 195 20 190" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 25 195)">
+        <path d="M 20 195 Q 25 195 25 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 200 Q 25 195 30 195" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 35 195)">
+        <path d="M 30 190 Q 35 195 40 200" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 40 190 Q 35 195 30 200" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 45 195)">
+        <path d="M 40 195 Q 45 195 45 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 200 Q 45 195 50 195" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 40 200 Q 45 195 50 190" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 55 195)">
+        <path d="M 50 195 Q 55 195 55 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 200 Q 55 195 60 195" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 65 195)">
+        <path d="M 60 195 Q 65 195 65 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 200 Q 65 195 70 195" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 60 200 Q 65 195 70 190" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 75 195)">
+        <path d="M 70 195 Q 75 195 75 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 200 Q 75 195 80 195" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 85 195)">
+        <path d="M 80 195 Q 85 195 85 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 200 Q 85 195 90 195" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 80 200 Q 85 195 90 190" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 95 195)">
+        <path d="M 90 195 Q 95 195 95 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 200 Q 95 195 100 195" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 105 195)">
+        <path d="M 100 190 Q 105 195 110 200" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 110 190 Q 105 195 100 200" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 115 195)">
+        <path d="M 110 190 Q 115 195 120 200" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 120 190 Q 115 195 110 200" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 125 195)">
+        <path d="M 120 195 Q 125 195 125 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 200 Q 125 195 130 195" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 200 Q 125 195 130 190" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 135 195)">
+        <path d="M 130 195 Q 135 195 135 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 200 Q 135 195 140 195" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 130 200 Q 135 195 140 190" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 145 195)">
+        <path d="M 140 195 Q 145 195 145 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 200 Q 145 195 150 195" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 140 200 Q 145 195 150 190" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 155 195)">
+        <path d="M 150 190 Q 155 195 160 200" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 160 190 Q 155 195 150 200" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 165 195)">
+        <path d="M 160 190 Q 165 195 170 200" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 170 190 Q 165 195 160 200" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 175 195)">
+        <path d="M 170 195 Q 175 195 175 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 200 Q 175 195 180 195" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 185 195)">
+        <path d="M 180 190 Q 185 195 190 200" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 190 190 Q 185 195 180 200" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 195 195)">
+        <path d="M 190 195 Q 195 195 195 190" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 200 Q 195 195 200 195" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 190 200 Q 195 195 200 190" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 5 205)">
+        <path d="M 0 205 Q 5 205 5 200" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 210 Q 5 205 10 205" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 0 210 Q 5 205 10 200" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 15 205)">
+        <path d="M 10 205 Q 15 205 15 200" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 210 Q 15 205 20 205" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 25 205)">
+        <path d="M 20 205 Q 25 205 25 200" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 210 Q 25 205 30 205" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 35 205)">
+        <path d="M 30 200 Q 35 205 40 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 40 200 Q 35 205 30 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 45 205)">
+        <path d="M 40 200 Q 45 205 50 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 50 200 Q 45 205 40 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 55 205)">
+        <path d="M 50 200 Q 55 205 60 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 60 200 Q 55 205 50 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 65 205)">
+        <path d="M 60 205 Q 65 205 65 200" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 210 Q 65 205 70 205" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 75 205)">
+        <path d="M 70 200 Q 75 205 80 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 80 200 Q 75 205 70 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 85 205)">
+        <path d="M 80 205 Q 85 205 85 200" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 210 Q 85 205 90 205" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 80 210 Q 85 205 90 200" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 95 205)">
+        <path d="M 90 205 Q 95 205 95 200" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 210 Q 95 205 100 205" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 105 205)">
+        <path d="M 100 205 Q 105 205 105 200" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 210 Q 105 205 110 205" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 115 205)">
+        <path d="M 110 205 Q 115 205 115 200" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 210 Q 115 205 120 205" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 110 210 Q 115 205 120 200" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 125 205)">
+        <path d="M 120 200 Q 125 205 130 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 130 200 Q 125 205 120 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 135 205)">
+        <path d="M 130 205 Q 135 205 135 200" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 210 Q 135 205 140 205" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 145 205)">
+        <path d="M 140 205 Q 145 205 145 200" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 210 Q 145 205 150 205" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 140 210 Q 145 205 150 200" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 155 205)">
+        <path d="M 150 205 Q 155 205 155 200" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 210 Q 155 205 160 205" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 150 210 Q 155 205 160 200" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 165 205)">
+        <path d="M 160 200 Q 165 205 170 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 170 200 Q 165 205 160 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 175 205)">
+        <path d="M 170 205 Q 175 205 175 200" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 210 Q 175 205 180 205" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 185 205)">
+        <path d="M 180 205 Q 185 205 185 200" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 210 Q 185 205 190 205" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 180 210 Q 185 205 190 200" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 195 205)">
+        <path d="M 190 200 Q 195 205 200 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 200 200 Q 195 205 190 210" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 5 215)">
+        <path d="M 0 215 Q 5 215 5 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 220 Q 5 215 10 215" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 0 220 Q 5 215 10 210" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 15 215)">
+        <path d="M 10 215 Q 15 215 15 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 220 Q 15 215 20 215" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 25 215)">
+        <path d="M 20 215 Q 25 215 25 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 220 Q 25 215 30 215" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 20 220 Q 25 215 30 210" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 35 215)">
+        <path d="M 30 215 Q 35 215 35 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 220 Q 35 215 40 215" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 45 215)">
+        <path d="M 40 215 Q 45 215 45 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 220 Q 45 215 50 215" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 55 215)">
+        <path d="M 50 210 Q 55 215 60 220" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 60 210 Q 55 215 50 220" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 65 215)">
+        <path d="M 60 210 Q 65 215 70 220" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 70 210 Q 65 215 60 220" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 75 215)">
+        <path d="M 70 215 Q 75 215 75 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 220 Q 75 215 80 215" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 85 215)">
+        <path d="M 80 215 Q 85 215 85 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 220 Q 85 215 90 215" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 80 220 Q 85 215 90 210" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 95 215)">
+        <path d="M 90 215 Q 95 215 95 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 220 Q 95 215 100 215" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 90 220 Q 95 215 100 210" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 105 215)">
+        <path d="M 100 210 Q 105 215 110 220" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 110 210 Q 105 215 100 220" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 115 215)">
+        <path d="M 110 210 Q 115 215 120 220" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 120 210 Q 115 215 110 220" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 125 215)">
+        <path d="M 120 215 Q 125 215 125 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 220 Q 125 215 130 215" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 220 Q 125 215 130 210" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 135 215)">
+        <path d="M 130 215 Q 135 215 135 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 220 Q 135 215 140 215" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 145 215)">
+        <path d="M 140 210 Q 145 215 150 220" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 150 210 Q 145 215 140 220" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 155 215)">
+        <path d="M 150 215 Q 155 215 155 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 220 Q 155 215 160 215" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 150 220 Q 155 215 160 210" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 165 215)">
+        <path d="M 160 215 Q 165 215 165 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 220 Q 165 215 170 215" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 160 220 Q 165 215 170 210" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 175 215)">
+        <path d="M 170 215 Q 175 215 175 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 220 Q 175 215 180 215" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 170 220 Q 175 215 180 210" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 185 215)">
+        <path d="M 180 215 Q 185 215 185 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 220 Q 185 215 190 215" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 195 215)">
+        <path d="M 190 215 Q 195 215 195 210" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 220 Q 195 215 200 215" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 190 220 Q 195 215 200 210" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 5 225)">
+        <path d="M 0 220 Q 5 225 10 230" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 10 220 Q 5 225 0 230" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 15 225)">
+        <path d="M 10 220 Q 15 225 20 230" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 20 220 Q 15 225 10 230" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 25 225)">
+        <path d="M 20 225 Q 25 225 25 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 230 Q 25 225 30 225" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 20 230 Q 25 225 30 220" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 35 225)">
+        <path d="M 30 225 Q 35 225 35 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 230 Q 35 225 40 225" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 45 225)">
+        <path d="M 40 225 Q 45 225 45 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 230 Q 45 225 50 225" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 40 230 Q 45 225 50 220" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 55 225)">
+        <path d="M 50 220 Q 55 225 60 230" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 60 220 Q 55 225 50 230" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 65 225)">
+        <path d="M 60 225 Q 65 225 65 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 230 Q 65 225 70 225" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 75 225)">
+        <path d="M 70 225 Q 75 225 75 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 230 Q 75 225 80 225" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 70 230 Q 75 225 80 220" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 85 225)">
+        <path d="M 80 225 Q 85 225 85 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 230 Q 85 225 90 225" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 80 230 Q 85 225 90 220" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 95 225)">
+        <path d="M 90 225 Q 95 225 95 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 230 Q 95 225 100 225" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 90 230 Q 95 225 100 220" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 105 225)">
+        <path d="M 100 225 Q 105 225 105 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 230 Q 105 225 110 225" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 115 225)">
+        <path d="M 110 225 Q 115 225 115 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 230 Q 115 225 120 225" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 125 225)">
+        <path d="M 120 225 Q 125 225 125 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 230 Q 125 225 130 225" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 230 Q 125 225 130 220" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 135 225)">
+        <path d="M 130 225 Q 135 225 135 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 230 Q 135 225 140 225" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 130 230 Q 135 225 140 220" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 145 225)">
+        <path d="M 140 225 Q 145 225 145 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 230 Q 145 225 150 225" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 140 230 Q 145 225 150 220" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 155 225)">
+        <path d="M 150 225 Q 155 225 155 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 230 Q 155 225 160 225" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 150 230 Q 155 225 160 220" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 165 225)">
+        <path d="M 160 225 Q 165 225 165 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 230 Q 165 225 170 225" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 160 230 Q 165 225 170 220" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 175 225)">
+        <path d="M 170 225 Q 175 225 175 220" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 230 Q 175 225 180 225" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 170 230 Q 175 225 180 220" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 185 225)">
+        <path d="M 180 220 Q 185 225 190 230" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 190 220 Q 185 225 180 230" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 195 225)">
+        <path d="M 190 220 Q 195 225 200 230" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 200 220 Q 195 225 190 230" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 5 235)">
+        <path d="M 0 235 Q 5 235 5 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 240 Q 5 235 10 235" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 15 235)">
+        <path d="M 10 235 Q 15 235 15 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 240 Q 15 235 20 235" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 25 235)">
+        <path d="M 20 235 Q 25 235 25 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 240 Q 25 235 30 235" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 20 240 Q 25 235 30 230" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 35 235)">
+        <path d="M 30 235 Q 35 235 35 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 240 Q 35 235 40 235" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 45 235)">
+        <path d="M 40 235 Q 45 235 45 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 240 Q 45 235 50 235" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 40 240 Q 45 235 50 230" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 55 235)">
+        <path d="M 50 235 Q 55 235 55 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 240 Q 55 235 60 235" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 65 235)">
+        <path d="M 60 235 Q 65 235 65 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 240 Q 65 235 70 235" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 75 235)">
+        <path d="M 70 235 Q 75 235 75 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 240 Q 75 235 80 235" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 85 235)">
+        <path d="M 80 235 Q 85 235 85 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 240 Q 85 235 90 235" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 95 235)">
+        <path d="M 90 230 Q 95 235 100 240" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 100 230 Q 95 235 90 240" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 105 235)">
+        <path d="M 100 235 Q 105 235 105 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 240 Q 105 235 110 235" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 115 235)">
+        <path d="M 110 235 Q 115 235 115 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 240 Q 115 235 120 235" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 110 240 Q 115 235 120 230" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 125 235)">
+        <path d="M 120 230 Q 125 235 130 240" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 130 230 Q 125 235 120 240" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 135 235)">
+        <path d="M 130 235 Q 135 235 135 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 240 Q 135 235 140 235" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 130 240 Q 135 235 140 230" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 145 235)">
+        <path d="M 140 235 Q 145 235 145 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 240 Q 145 235 150 235" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 155 235)">
+        <path d="M 150 235 Q 155 235 155 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 240 Q 155 235 160 235" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 165 235)">
+        <path d="M 160 235 Q 165 235 165 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 240 Q 165 235 170 235" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 160 240 Q 165 235 170 230" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 175 235)">
+        <path d="M 170 230 Q 175 235 180 240" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 230 Q 175 235 170 240" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 185 235)">
+        <path d="M 180 235 Q 185 235 185 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 240 Q 185 235 190 235" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 180 240 Q 185 235 190 230" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 195 235)">
+        <path d="M 190 235 Q 195 235 195 230" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 240 Q 195 235 200 235" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 190 240 Q 195 235 200 230" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 5 245)">
+        <path d="M 0 240 Q 5 245 10 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 10 240 Q 5 245 0 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 15 245)">
+        <path d="M 10 245 Q 15 245 15 240" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 250 Q 15 245 20 245" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 10 250 Q 15 245 20 240" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 25 245)">
+        <path d="M 20 240 Q 25 245 30 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 30 240 Q 25 245 20 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 35 245)">
+        <path d="M 30 245 Q 35 245 35 240" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 250 Q 35 245 40 245" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 30 250 Q 35 245 40 240" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 45 245)">
+        <path d="M 40 245 Q 45 245 45 240" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 250 Q 45 245 50 245" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 40 250 Q 45 245 50 240" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 55 245)">
+        <path d="M 50 245 Q 55 245 55 240" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 250 Q 55 245 60 245" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 65 245)">
+        <path d="M 60 245 Q 65 245 65 240" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 250 Q 65 245 70 245" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 75 245)">
+        <path d="M 70 240 Q 75 245 80 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 80 240 Q 75 245 70 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 85 245)">
+        <path d="M 80 240 Q 85 245 90 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 90 240 Q 85 245 80 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 95 245)">
+        <path d="M 90 245 Q 95 245 95 240" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 250 Q 95 245 100 245" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 105 245)">
+        <path d="M 100 245 Q 105 245 105 240" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 250 Q 105 245 110 245" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 100 250 Q 105 245 110 240" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 115 245)">
+        <path d="M 110 245 Q 115 245 115 240" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 250 Q 115 245 120 245" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 110 250 Q 115 245 120 240" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 125 245)">
+        <path d="M 120 245 Q 125 245 125 240" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 250 Q 125 245 130 245" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 250 Q 125 245 130 240" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 135 245)">
+        <path d="M 130 240 Q 135 245 140 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 140 240 Q 135 245 130 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 145 245)">
+        <path d="M 140 240 Q 145 245 150 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 150 240 Q 145 245 140 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 155 245)">
+        <path d="M 150 240 Q 155 245 160 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 160 240 Q 155 245 150 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 165 245)">
+        <path d="M 160 245 Q 165 245 165 240" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 250 Q 165 245 170 245" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 175 245)">
+        <path d="M 170 245 Q 175 245 175 240" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 250 Q 175 245 180 245" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 185 245)">
+        <path d="M 180 245 Q 185 245 185 240" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 250 Q 185 245 190 245" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 180 250 Q 185 245 190 240" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 195 245)">
+        <path d="M 190 240 Q 195 245 200 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 200 240 Q 195 245 190 250" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 5 255)">
+        <path d="M 0 255 Q 5 255 5 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 260 Q 5 255 10 255" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 0 260 Q 5 255 10 250" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 15 255)">
+        <path d="M 10 250 Q 15 255 20 260" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 20 250 Q 15 255 10 260" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 25 255)">
+        <path d="M 20 255 Q 25 255 25 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 260 Q 25 255 30 255" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 35 255)">
+        <path d="M 30 255 Q 35 255 35 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 260 Q 35 255 40 255" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 45 255)">
+        <path d="M 40 255 Q 45 255 45 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 260 Q 45 255 50 255" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 40 260 Q 45 255 50 250" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 55 255)">
+        <path d="M 50 250 Q 55 255 60 260" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 60 250 Q 55 255 50 260" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 65 255)">
+        <path d="M 60 255 Q 65 255 65 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 260 Q 65 255 70 255" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 75 255)">
+        <path d="M 70 255 Q 75 255 75 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 260 Q 75 255 80 255" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 70 260 Q 75 255 80 250" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 85 255)">
+        <path d="M 80 255 Q 85 255 85 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 260 Q 85 255 90 255" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 95 255)">
+        <path d="M 90 255 Q 95 255 95 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 260 Q 95 255 100 255" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 105 255)">
+        <path d="M 100 255 Q 105 255 105 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 260 Q 105 255 110 255" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 100 260 Q 105 255 110 250" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 115 255)">
+        <path d="M 110 250 Q 115 255 120 260" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 120 250 Q 115 255 110 260" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 125 255)">
+        <path d="M 120 255 Q 125 255 125 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 260 Q 125 255 130 255" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 135 255)">
+        <path d="M 130 255 Q 135 255 135 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 260 Q 135 255 140 255" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 145 255)">
+        <path d="M 140 250 Q 145 255 150 260" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 150 250 Q 145 255 140 260" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 155 255)">
+        <path d="M 150 255 Q 155 255 155 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 260 Q 155 255 160 255" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 165 255)">
+        <path d="M 160 255 Q 165 255 165 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 260 Q 165 255 170 255" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 175 255)">
+        <path d="M 170 255 Q 175 255 175 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 175 260 Q 175 255 180 255" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 185 255)">
+        <path d="M 180 255 Q 185 255 185 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 260 Q 185 255 190 255" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 195 255)">
+        <path d="M 190 255 Q 195 255 195 250" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 260 Q 195 255 200 255" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 190 260 Q 195 255 200 250" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 5 265)">
+        <path d="M 0 265 Q 5 265 5 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 270 Q 5 265 10 265" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 15 265)">
+        <path d="M 10 260 Q 15 265 20 270" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 20 260 Q 15 265 10 270" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 25 265)">
+        <path d="M 20 265 Q 25 265 25 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 270 Q 25 265 30 265" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 20 270 Q 25 265 30 260" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 35 265)">
+        <path d="M 30 265 Q 35 265 35 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 270 Q 35 265 40 265" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 30 270 Q 35 265 40 260" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 45 265)">
+        <path d="M 40 265 Q 45 265 45 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 270 Q 45 265 50 265" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 40 270 Q 45 265 50 260" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 55 265)">
+        <path d="M 50 265 Q 55 265 55 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 270 Q 55 265 60 265" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 50 270 Q 55 265 60 260" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 65 265)">
+        <path d="M 60 265 Q 65 265 65 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 270 Q 65 265 70 265" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 60 270 Q 65 265 70 260" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 75 265)">
+        <path d="M 70 265 Q 75 265 75 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 75 270 Q 75 265 80 265" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 70 270 Q 75 265 80 260" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 85 265)">
+        <path d="M 80 265 Q 85 265 85 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 270 Q 85 265 90 265" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 95 265)">
+        <path d="M 90 265 Q 95 265 95 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 270 Q 95 265 100 265" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 90 270 Q 95 265 100 260" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 105 265)">
+        <path d="M 100 265 Q 105 265 105 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 270 Q 105 265 110 265" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 115 265)">
+        <path d="M 110 265 Q 115 265 115 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 270 Q 115 265 120 265" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 110 270 Q 115 265 120 260" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 125 265)">
+        <path d="M 120 265 Q 125 265 125 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 270 Q 125 265 130 265" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 135 265)">
+        <path d="M 130 265 Q 135 265 135 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 270 Q 135 265 140 265" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 130 270 Q 135 265 140 260" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 145 265)">
+        <path d="M 140 265 Q 145 265 145 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 270 Q 145 265 150 265" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 155 265)">
+        <path d="M 150 265 Q 155 265 155 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 270 Q 155 265 160 265" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 150 270 Q 155 265 160 260" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 165 265)">
+        <path d="M 160 265 Q 165 265 165 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 270 Q 165 265 170 265" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 175 265)">
+        <path d="M 170 260 Q 175 265 180 270" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 260 Q 175 265 170 270" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 185 265)">
+        <path d="M 180 265 Q 185 265 185 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 270 Q 185 265 190 265" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 195 265)">
+        <path d="M 190 265 Q 195 265 195 260" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 195 270 Q 195 265 200 265" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 190 270 Q 195 265 200 260" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 5 275)">
+        <path d="M 0 275 Q 5 275 5 270" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 280 Q 5 275 10 275" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 0 280 Q 5 275 10 270" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 15 275)">
+        <path d="M 10 275 Q 15 275 15 270" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 280 Q 15 275 20 275" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 10 280 Q 15 275 20 270" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 25 275)">
+        <path d="M 20 275 Q 25 275 25 270" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 280 Q 25 275 30 275" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 20 280 Q 25 275 30 270" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 35 275)">
+        <path d="M 30 275 Q 35 275 35 270" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 280 Q 35 275 40 275" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 30 280 Q 35 275 40 270" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 45 275)">
+        <path d="M 40 270 Q 45 275 50 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 50 270 Q 45 275 40 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 55 275)">
+        <path d="M 50 275 Q 55 275 55 270" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 280 Q 55 275 60 275" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 65 275)">
+        <path d="M 60 275 Q 65 275 65 270" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 65 280 Q 65 275 70 275" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 60 280 Q 65 275 70 270" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 75 275)">
+        <path d="M 70 270 Q 75 275 80 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 80 270 Q 75 275 70 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 85 275)">
+        <path d="M 80 270 Q 85 275 90 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 90 270 Q 85 275 80 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 95 275)">
+        <path d="M 90 275 Q 95 275 95 270" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 280 Q 95 275 100 275" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 105 275)">
+        <path d="M 100 275 Q 105 275 105 270" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 280 Q 105 275 110 275" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 100 280 Q 105 275 110 270" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 115 275)">
+        <path d="M 110 270 Q 115 275 120 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 120 270 Q 115 275 110 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 125 275)">
+        <path d="M 120 275 Q 125 275 125 270" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 280 Q 125 275 130 275" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 135 275)">
+        <path d="M 130 275 Q 135 275 135 270" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 280 Q 135 275 140 275" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 130 280 Q 135 275 140 270" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 145 275)">
+        <path d="M 140 275 Q 145 275 145 270" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 280 Q 145 275 150 275" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 140 280 Q 145 275 150 270" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 155 275)">
+        <path d="M 150 275 Q 155 275 155 270" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 280 Q 155 275 160 275" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 150 280 Q 155 275 160 270" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 165 275)">
+        <path d="M 160 270 Q 165 275 170 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 170 270 Q 165 275 160 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 175 275)">
+        <path d="M 170 270 Q 175 275 180 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 270 Q 175 275 170 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 185 275)">
+        <path d="M 180 270 Q 185 275 190 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 190 270 Q 185 275 180 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 195 275)">
+        <path d="M 190 270 Q 195 275 200 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 200 270 Q 195 275 190 280" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 5 285)">
+        <path d="M 0 285 Q 5 285 5 280" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 290 Q 5 285 10 285" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 0 290 Q 5 285 10 280" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 15 285)">
+        <path d="M 10 285 Q 15 285 15 280" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 290 Q 15 285 20 285" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 25 285)">
+        <path d="M 20 285 Q 25 285 25 280" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 290 Q 25 285 30 285" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 35 285)">
+        <path d="M 30 280 Q 35 285 40 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 40 280 Q 35 285 30 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 45 285)">
+        <path d="M 40 280 Q 45 285 50 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 50 280 Q 45 285 40 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 55 285)">
+        <path d="M 50 280 Q 55 285 60 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 60 280 Q 55 285 50 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 65 285)">
+        <path d="M 60 280 Q 65 285 70 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 70 280 Q 65 285 60 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 75 285)">
+        <path d="M 70 280 Q 75 285 80 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 80 280 Q 75 285 70 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 85 285)">
+        <path d="M 80 280 Q 85 285 90 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 90 280 Q 85 285 80 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 95 285)">
+        <path d="M 90 285 Q 95 285 95 280" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 290 Q 95 285 100 285" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 90 290 Q 95 285 100 280" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 105 285)">
+        <path d="M 100 280 Q 105 285 110 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 110 280 Q 105 285 100 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 115 285)">
+        <path d="M 110 280 Q 115 285 120 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 120 280 Q 115 285 110 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 125 285)">
+        <path d="M 120 280 Q 125 285 130 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 130 280 Q 125 285 120 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(0 135 285)">
+        <path d="M 130 285 Q 135 285 135 280" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 135 290 Q 135 285 140 285" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 130 290 Q 135 285 140 280" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 145 285)">
+        <path d="M 140 285 Q 145 285 145 280" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 290 Q 145 285 150 285" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 140 290 Q 145 285 150 280" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 155 285)">
+        <path d="M 150 285 Q 155 285 155 280" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 290 Q 155 285 160 285" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 150 290 Q 155 285 160 280" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 165 285)">
+        <path d="M 160 285 Q 165 285 165 280" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 290 Q 165 285 170 285" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 160 290 Q 165 285 170 280" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 175 285)">
+        <path d="M 170 280 Q 175 285 180 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 280 Q 175 285 170 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 185 285)">
+        <path d="M 180 285 Q 185 285 185 280" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 290 Q 185 285 190 285" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 195 285)">
+        <path d="M 190 280 Q 195 285 200 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 200 280 Q 195 285 190 290" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 5 295)">
+        <path d="M 0 295 Q 5 295 5 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 5 300 Q 5 295 10 295" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 15 295)">
+        <path d="M 10 295 Q 15 295 15 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 15 300 Q 15 295 20 295" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 25 295)">
+        <path d="M 20 295 Q 25 295 25 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 25 300 Q 25 295 30 295" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 35 295)">
+        <path d="M 30 295 Q 35 295 35 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 35 300 Q 35 295 40 295" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 30 300 Q 35 295 40 290" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 45 295)">
+        <path d="M 40 295 Q 45 295 45 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 45 300 Q 45 295 50 295" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 40 300 Q 45 295 50 290" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 55 295)">
+        <path d="M 50 295 Q 55 295 55 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 55 300 Q 55 295 60 295" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 50 300 Q 55 295 60 290" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 65 295)">
+        <path d="M 60 290 Q 65 295 70 300" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 70 290 Q 65 295 60 300" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(180 75 295)">
+        <path d="M 70 290 Q 75 295 80 300" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 80 290 Q 75 295 70 300" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 85 295)">
+        <path d="M 80 295 Q 85 295 85 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 85 300 Q 85 295 90 295" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 80 300 Q 85 295 90 290" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 95 295)">
+        <path d="M 90 295 Q 95 295 95 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 95 300 Q 95 295 100 295" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 90 300 Q 95 295 100 290" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 105 295)">
+        <path d="M 100 295 Q 105 295 105 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 105 300 Q 105 295 110 295" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(90 115 295)">
+        <path d="M 110 295 Q 115 295 115 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 115 300 Q 115 295 120 295" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 110 300 Q 115 295 120 290" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 125 295)">
+        <path d="M 120 295 Q 125 295 125 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 125 300 Q 125 295 130 295" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 120 300 Q 125 295 130 290" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 135 295)">
+        <path d="M 130 290 Q 135 295 140 300" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 140 290 Q 135 295 130 300" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(90 145 295)">
+        <path d="M 140 295 Q 145 295 145 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 145 300 Q 145 295 150 295" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(180 155 295)">
+        <path d="M 150 295 Q 155 295 155 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 155 300 Q 155 295 160 295" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 165 295)">
+        <path d="M 160 295 Q 165 295 165 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 165 300 Q 165 295 170 295" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(0 175 295)">
+        <path d="M 170 290 Q 175 295 180 300" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 180 290 Q 175 295 170 300" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+    <g transform="rotate(270 185 295)">
+        <path d="M 180 295 Q 185 295 185 290" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 185 300 Q 185 295 190 295" stroke="black" stroke-width="0.3" fill="none"></path>
+        <path d="M 180 300 Q 185 295 190 290" stroke="black" stroke-width="0.3" fill="none"></path>
+    </g>
+    <g transform="rotate(270 195 295)">
+        <path d="M 190 290 Q 195 295 200 300" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+        <path d="M 200 290 Q 195 295 190 300" stroke="black" stroke-width="0.3" fill="none" stroke-linecap="round"></path>
+    </g>
+</svg>
